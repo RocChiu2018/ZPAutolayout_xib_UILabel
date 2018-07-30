@@ -1,0 +1,2 @@
+# ZPAutolayout_xib_UILabel
+在xib文件中利用Autolayout给UILabel控件添加约束。
